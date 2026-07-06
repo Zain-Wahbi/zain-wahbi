@@ -3,7 +3,7 @@
 **Computer Engineer** | Laravel & API Developer passionate about building scalable REST APIs, backend systems, and applying Machine Learning to real-world problems.
 
 - 🔭 Currently working on freelance Laravel projects, a personal AI project, and several other ventures
-- 🌱 Exploring advanced API architecture, ML pipelines, and SEO strategies
+- 🌱 Exploring advanced API architecture, ML pipelines, data analysis, and SEO strategies
 - 🧩 Strong problem-solving skills — love breaking down complex challenges into clean solutions
 - 🤝 Open to collaborate on Laravel, REST API, and Python/ML projects
 - 📫 How to reach me:
@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -45,5 +46,12 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Data Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ---
