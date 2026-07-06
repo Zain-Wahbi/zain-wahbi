@@ -2,7 +2,7 @@
 
 **Computer Engineer** | Laravel & API Developer passionate about building scalable REST APIs, backend systems, and applying Machine Learning to real-world problems.
 
-- 🔭 Currently working on freelance Laravel projects 
+- 🔭 Currently working on freelance Laravel projects, a personal AI project, and several other ventures
 - 🌱 Exploring advanced API architecture, ML pipelines, and SEO strategies
 - 🧩 Strong problem-solving skills — love breaking down complex challenges into clean solutions
 - 🤝 Open to collaborate on Laravel, REST API, and Python/ML projects
@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-wahbi-858897413)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ZainW72)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/ZainWahbi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eng.zainwahbi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Zain-Wahbi)
 
 ---
@@ -46,8 +47,3 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![Zain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=dark&hide_border=true)
