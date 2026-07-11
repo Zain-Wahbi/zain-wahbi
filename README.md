@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=180&section=header&text=Zain%20Wahbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Zain%20Wahbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF2D20&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Laravel+%26+API+Developer;Building+scalable+REST+APIs+%26+ML+solutions;Open+to+freelance+%26+remote+work" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Laravel+%26+API+Developer;Building+scalable+REST+APIs+%26+ML+solutions;Open+to+freelance+%26+remote+work" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zain-Wahbi&color=FF2D20&style=flat&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Zain-Wahbi&color=0077B5&style=flat&label=Profile+Views" alt="views" />
 </p>
 
 ---
@@ -44,10 +44,10 @@
 
 **Frameworks & Tools**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -68,13 +68,5 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
