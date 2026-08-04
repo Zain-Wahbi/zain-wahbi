@@ -20,12 +20,12 @@
 - 🤝 Open to collaborate on Laravel, REST API, and Python/ML projects
 - 📫 How to reach me:
 
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Zain-Wahbi/Zain-Wahbi/blob/main/Zain%20Wahbi%20Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-wahbi-858897413)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZainW72)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainWahbi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=eng.zainwahbi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain-Wahbi)
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](https://raw.githubusercontent.com/Zain-Wahbi/Zain-Wahbi/main/Zain%20Wahbi%20Resume.pdf)
 
 ---
 
