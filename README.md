@@ -51,6 +51,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Machine Learning**
 
@@ -68,5 +69,50 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Financial Fraud Detection — Graduation Project
+`Feb – Jul 2026`
+Trained and compared 4 ML models (Random Forest, XGBoost, LightGBM, TabNet) on a 5M-record Kaggle dataset. Built a full FastAPI backend with `/predict`, `/predict-batch`, `/explain`, and `/health` endpoints, a complete preprocessing pipeline (feature engineering, label encoding, imputation, sender/receiver lookup tables), and a rule-based explainability system.
+
+### 🛒 ShopAPI — E-commerce REST API
+`Jun 2026`
+Production-ready e-commerce REST API built with Laravel 12: authentication via Sanctum, cart, coupons, orders, Stripe payment integration, and queued email notifications.
+
+### ✅ Todo App API
+`May 2026`
+RESTful API for task management built with Laravel.
+
+### ✈️ Airline Company Management System
+`Apr – Jun 2025`
+Dynamic airline management web app (PHP & MySQL) with modules for flight scheduling, booking management, and aircraft/customer data handling.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Engineering** — Al-Wataniya Private University, Faculty of Engineering
+`Sep 2021 – Jul 2026`
+Specialized in software development: PHP-based web applications, Java programming, and database management systems.
+
+---
+
+## 📜 Certifications
+
+**Web Development**
+- Mastering Laravel Framework and PHP — Coursera
+- Building Web Applications in PHP — Coursera (University of Michigan)
+- JavaScript, jQuery, and JSON — Coursera (University of Michigan)
+
+**Data & Analytics**
+- Data Analysis with Python — Coursera (IBM)
+- Introduction to Data Analytics — Coursera (IBM)
+
+---
+
+## 🌐 Languages
+Arabic (Native) · English (Strong writing & reading, average speaking)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
