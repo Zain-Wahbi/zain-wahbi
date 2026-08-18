@@ -24,7 +24,7 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
   <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3B9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://raw.githubusercontent.com/Zain-Wahbi/Zain-Wahbi/main/Zain%20Wahbi%20Resume.pdf" target="_blank">
+  <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/resume.html" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
   <a href="https://www.linkedin.com/in/zain-wahbi-858897413" target="_blank">
