@@ -87,15 +87,15 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 
 **Principles**
 
-![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-4B8BBE?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2E86AB?style=for-the-badge&logo=codefactor&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-2E86AB?style=for-the-badge&logo=codefactor&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
 ---
