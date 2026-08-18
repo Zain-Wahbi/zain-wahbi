@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zain-Wahbi&color=0077B5&style=flat&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-0077B5?style=flat" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Based%20in-Hama%2C%20Syria-0077B5?style=flat" alt="Location" />
 </p>
 
 ---
@@ -67,7 +65,9 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Machine Learning**
@@ -85,45 +85,19 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
+**Principles**
 
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Zain-Wahbi/shop-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=shop-api&theme=default&hide_border=true" alt="ShopAPI" />
-  </a>
-  <a href="https://github.com/Zain-Wahbi/todo-app-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=todo-app-api&theme=default&hide_border=true" alt="Todo App API" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Zain-Wahbi/airline-travel-company-v1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=airline-travel-company-v1&theme=default&hide_border=true" alt="ATC — Airline Travel Company" />
-  </a>
-</p>
-
-> 💡 See the full write-up of these projects — plus my ML graduation project, **Fraud Bank** — on my [portfolio](https://zain-wahbi.github.io/zain-wahbi-portfolio/).
+![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-4B8BBE?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Wahbi&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Wahbi&theme=react-dark&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 ---
-
-<p align="center"><i>Thanks for stopping by — feel free to reach out about Laravel/API or ML/data work! 🚀</i></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
