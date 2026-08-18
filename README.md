@@ -14,12 +14,11 @@
 
 I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) specializing in **Laravel/PHP REST APIs** and **applied Machine Learning**. I like systems that are both correct and explainable — clean backend architecture on one side, and ML pipelines you can actually trust on the other.
 
-- 🔭 **Currently building:** freelance Laravel/API projects and refining a production-style ML fraud-detection system
-- 🌱 **Currently exploring:** advanced API architecture, ML pipelines in production, and data analysis
-- 🧩 **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
-- 🤝 **Open to:** Laravel, REST API, and Python/ML collaboration or freelance work
-- 📄 **Resume:** [View / Download](https://github.com/Zain-Wahbi/Zain-Wahbi/blob/main/Zain%20Wahbi%20Resume.pdf)
-- 🌐 **Portfolio:** [zain-wahbi.github.io](https://zain-wahbi.github.io/zain-wahbi-portfolio/)
+- **Currently building:** freelance Laravel/API projects and refining a production-style ML fraud-detection system
+- **Currently exploring:** advanced API architecture, ML pipelines in production, and data analysis
+- **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
+- **Open to:** Laravel, REST API, and Python/ML collaboration or freelance work
+- **How to reach me:**
 
 <p align="center">
   <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/" target="_blank">
@@ -95,7 +94,7 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
 </p>
 
 ---
