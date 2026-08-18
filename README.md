@@ -1,31 +1,48 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Zain%20Wahbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Laravel+%26+API+Developer;Building+scalable+REST+APIs+%26+ML+solutions;Open+to+freelance+%26+remote+work" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&width=650&lines=Computer+Engineer+%7C+Backend+%26+ML+Engineer;Laravel+%2F+PHP+REST+APIs+%E2%80%A2+Applied+Machine+Learning;Turning+messy+requirements+into+reliable+systems;Open+to+freelance+%26+remote+work" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zain-Wahbi&color=0077B5&style=flat&label=Profile+Views" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Zain-Wahbi&color=0077B5&style=flat&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-0077B5?style=flat" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Based%20in-Hama%2C%20Syria-0077B5?style=flat" alt="Location" />
 </p>
 
 ---
 
-# Hi there! 👋
+### 👋 About Me
 
-**Computer Engineer** | Laravel & API Developer passionate about building scalable REST APIs, backend systems, and applying Machine Learning to real-world problems.
+I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) specializing in **Laravel/PHP REST APIs** and **applied Machine Learning**. I like systems that are both correct and explainable — clean backend architecture on one side, and ML pipelines you can actually trust on the other.
 
-- 🔭 Currently working on freelance Laravel projects, a personal AI project, and several other ventures
-- 🌱 Exploring advanced API architecture, ML pipelines, data analysis, and SEO strategies
-- 🧩 Strong problem-solving skills — love breaking down complex challenges into clean solutions
-- 🤝 Open to collaborate on Laravel, REST API, and Python/ML projects
-- 📫 How to reach me:
+- 🔭 **Currently building:** freelance Laravel/API projects and refining a production-style ML fraud-detection system
+- 🌱 **Currently exploring:** advanced API architecture, ML pipelines in production, and data analysis
+- 🧩 **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
+- 🤝 **Open to:** Laravel, REST API, and Python/ML collaboration or freelance work
+- 📄 **Resume:** [View / Download](https://github.com/Zain-Wahbi/Zain-Wahbi/blob/main/Zain%20Wahbi%20Resume.pdf)
+- 🌐 **Portfolio:** [zain-wahbi.github.io](https://zain-wahbi.github.io/zain-wahbi-portfolio/)
 
-[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/Zain-Wahbi/Zain-Wahbi/blob/main/Zain%20Wahbi%20Resume.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-wahbi-858897413)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZainW72)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZainWahbi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=eng.zainwahbi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zain-Wahbi)
+<p align="center">
+  <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3B9EFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Zain-Wahbi/Zain-Wahbi/blob/main/Zain%20Wahbi%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/zain-wahbi-858897413" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=eng.zainwahbi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/ZainW72" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://x.com/ZainWahbi" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 ---
 
@@ -60,7 +77,6 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge)
 ![TabNet](https://img.shields.io/badge/TabNet-6A0DAD?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Data Analysis**
 
@@ -69,5 +85,45 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Zain-Wahbi/shop-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=shop-api&theme=default&hide_border=true" alt="ShopAPI" />
+  </a>
+  <a href="https://github.com/Zain-Wahbi/todo-app-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=todo-app-api&theme=default&hide_border=true" alt="Todo App API" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Zain-Wahbi/airline-travel-company-v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zain-Wahbi&repo=airline-travel-company-v1&theme=default&hide_border=true" alt="ATC — Airline Travel Company" />
+  </a>
+</p>
+
+> 💡 See the full write-up of these projects — plus my ML graduation project, **Fraud Bank** — on my [portfolio](https://zain-wahbi.github.io/zain-wahbi-portfolio/).
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zain-Wahbi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-Wahbi&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Wahbi&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-Wahbi&theme=react-dark&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to reach out about Laravel/API or ML/data work! 🚀</i></p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
