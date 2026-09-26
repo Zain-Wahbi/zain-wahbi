@@ -97,7 +97,7 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daliaalkilani&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Wahbi&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
