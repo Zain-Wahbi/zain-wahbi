@@ -97,7 +97,7 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zain-wahbi&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-wahbi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
