@@ -96,14 +96,13 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-wahbi&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=zain-wahbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-wahbi&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zain-Wahbi&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
-</p>
-
+<br>
 ---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer)
