@@ -12,13 +12,13 @@
 
 ### 👋 About Me
 
-I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026) specializing in **Laravel/PHP REST APIs** and **applied Machine Learning**. I like systems that are both correct and explainable — clean backend architecture on one side, and ML pipelines you can actually trust on the other.
+I'm a **Computer Engineering graduate** (Al-Wataniya Private University, 2026) based in Hama, Syria, specializing in **Laravel/PHP REST APIs** and **applied Machine Learning**. I like systems that are both correct and explainable — clean backend architecture on one side, and ML pipelines you can actually trust on the other.
 
-- **Currently building:** freelance Laravel/API projects and refining a production-style ML fraud-detection system
-- **Currently exploring:** advanced API architecture, ML pipelines in production, and data analysis
-- **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
-- **Open to:** Laravel, REST API, and Python/ML collaboration or freelance work
-- **How to reach me:**
+- 🔭 **Open to:** Laravel, REST API, and Python/ML freelance work and remote roles
+- 🛠️ **Recently shipped:** a fraud-detection system on 5M transactions, a real-time airline booking platform, an e-commerce API with Stripe, and a salary-analysis project on the Stack Overflow Survey 2025
+- 💡 **What I'm good at:** turning ambiguous requirements — and messy data — into systems people can rely on
+- 📚 **Currently exploring:** advanced API architecture, ML pipelines in production, and data analysis
+- 📫 **How to reach me:**
 
 <p align="center">
   <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/" target="_blank">
@@ -27,11 +27,11 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
   <a href="https://zain-wahbi.github.io/zain-wahbi-portfolio/resume.html" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://www.linkedin.com/in/zain-wahbi-858897413" target="_blank">
+  <a href="https://www.linkedin.com/in/zain-wahbi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=eng.zainwahbi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:eng.zainwahbi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/ZainW72" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -40,6 +40,18 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Fraud Bank**](https://github.com/Zain-Wahbi/fraud-detection-system) | Graduation project: compared 4 ML models on 5M transactions, deployed LightGBM behind FastAPI with a bilingual Laravel dashboard | Python, LightGBM, XGBoost, TabNet, FastAPI, Laravel |
+| [**ATC v2**](https://github.com/Zain-Wahbi/ATC-V2) | Airline management platform with real-time seat updates, separate staff/customer auth, and an AR/EN interface | Laravel 12, Filament, Livewire, Reverb, Pest |
+| [**ShopAPI**](https://github.com/Zain-Wahbi/shop-api) | E-commerce REST API with Stripe payments, queued emails, stock locking, and Swagger docs | Laravel, Sanctum, Stripe, MySQL |
+| [**Todo App API**](https://github.com/Zain-Wahbi/todo-app-api) | Task-management API with admin panel, caching, rate limiting, and 31 PHPUnit tests | Laravel 11, Sanctum, PHPUnit |
+| [**Tech Salary Analysis**](https://github.com/Zain-Wahbi/tech-salary-analysis) | Cleaning, EDA, and a salary prediction model on the Stack Overflow Developer Survey 2025, with a CLI predictor | Python, Pandas, Scikit-learn, Jupyter |
 
 ---
 
@@ -57,17 +69,24 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Frameworks & Tools**
+**Backend & Frameworks**
 
-![Laravel](https://img.shields.io/badge/Laravel-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02303A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-0077B5?style=for-the-badge&logo=laravel&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+**Frontend**
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 **Machine Learning**
 
@@ -82,7 +101,15 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Testing & Tools**
+
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logoColor=white)
+![Pest](https://img.shields.io/badge/Pest-F472B6?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Principles**
 
@@ -97,9 +124,9 @@ I'm a **Computer Engineering graduate** (Al‑Wataniya Private University, 2026)
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=zain-wahbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&icon_color=9F7AEA&text_color=ffffff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=zain-wahbi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B9EFF&icon_color=3B9EFF&text_color=ffffff" alt="GitHub Stats" height="165"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-wahbi&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA&currStreakLabel=9F7AEA" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=zain-wahbi&theme=tokyonight&hide_border=true&background=0d1117&ring=3B9EFF&fire=3B9EFF&currStreakLabel=3B9EFF" alt="GitHub Streak" height="165"/>
 </div>
 
 ---
