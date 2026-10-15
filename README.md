@@ -30,7 +30,7 @@ I'm a **Computer Engineering graduate** (Al-Wataniya Private University, 2026) b
   <a href="https://www.linkedin.com/in/zain-wahbi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:eng.zainwahbi@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=eng.zainwahbi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/ZainW72" target="_blank">
